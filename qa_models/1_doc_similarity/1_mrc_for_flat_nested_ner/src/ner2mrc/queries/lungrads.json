@@ -1,0 +1,8 @@
+{
+    "ACH": "são as patologias encontradas no exame, como: Nódulos, Nódulos Pulmonares, Imagens Ovalares, Granuloma, Opacidade Focal", 
+    "ATE": "é a capacidade de absorção de cada uma das partes integrantes do pulmão: ar, sangue e tecido. O nódulo pulmonar pode ter atenuação classificadas como: Sólido, Densidade de Partes Moles, Não Sólido, Atenuação em Vidro Fosco, Parcialmente Sólido, Semissólido",
+    "BOR": "é a forma do nódulo pulmonar podendo ser: Lisa, Bem Delimitada, Lobulada, Espiculada, Irregular",
+    "CAL": "é o aspecto do nódulo pulmonar na tomografia. A calcificação pode apresentar os seguintes padrões: Difuso, Centralizado, Padrão de descrição em \"pipoca\", Faixas concêntricas, Excêntrica, Em vidro despolido",
+    "LOC": "é a área do pulmão na qual o nódulo pulmonar foi identificado", 
+    "TAM": "é o tamanho que o nódulo pulmonar encontrado possui" 
+}
