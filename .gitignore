@@ -1,0 +1,4 @@
+ner_models/data
+qa_models/1_doc_similarity/1_mrc_for_flat_nested_ner/data
+qa_models/1_doc_similarity/1_mrc_for_flat_nested_ner/mrc_data
+qa_models/1_doc_similarity/2_knn_docs/data
